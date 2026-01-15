@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flummoxedshubh.github.io/sitemap.xml
